@@ -1,0 +1,16 @@
+
+
+
+
+
+# Just a txt file for no reason
+# Condition
+# Loops
+# Lists
+# Functions
+# Dictionaries
+# Sets
+# Strings
+# Tuples
+# User Inputs
+# Variables
